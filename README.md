@@ -1,3 +1,5 @@
+# truffleでの確認コマンド
+
 ~~~
 truffle(development)> const sender = web3.eth.accounts[1]
 undefined
