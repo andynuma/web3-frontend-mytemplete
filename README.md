@@ -1,4 +1,6 @@
-# truffleでの確認コマンド
+# 個人的web3テンプレ
+
+## truffleでの確認コマンド
 
 ~~~
 truffle(development)> const sender = web3.eth.accounts[1]
